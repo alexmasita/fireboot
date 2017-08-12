@@ -8,10 +8,10 @@ module.exports = function(environment) {
         rootURL: '/',
         locationType: 'auto',
         firebase: {
-            apiKey: 'AIzaSyCuaE-fe5cjsjdo5UNElx5ATiTy0sj9yYU',
-            authDomain: 'way-finder-d47dc.firebaseapp.com',
-            databaseURL: 'https://way-finder-d47dc.firebaseio.com',
-            storageBucket: 'way-finder-d47dc.appspot.com',
+            apiKey: '',
+            authDomain: '',
+            databaseURL: '',
+            storageBucket: '',
         },
         EmberENV: {
             FEATURES: {
